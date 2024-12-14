@@ -13,9 +13,9 @@
         </DropdownSelection>
         <DialogSelection />
       </SelectionState>
-      <SelectionState runConfigName="Radiobtnactivate">
+      <SelectionState runConfigName="spinner">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2024-11-14T12:04:20.753303700Z">
+        <DropdownSelection timestamp="2024-12-13T12:43:40.151820800Z">
           <Target type="DEFAULT_BOOT">
             <handle>
               <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\E X T E N S A\.android\avd\Pixel_7_Pro_API_35.avd" />
@@ -24,9 +24,9 @@
         </DropdownSelection>
         <DialogSelection />
       </SelectionState>
-      <SelectionState runConfigName="FormActivity">
+      <SelectionState runConfigName="Webactivity">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2024-11-19T06:18:45.080860800Z">
+        <DropdownSelection timestamp="2024-12-05T08:39:37.847493700Z">
           <Target type="DEFAULT_BOOT">
             <handle>
               <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\E X T E N S A\.android\avd\Pixel_7_Pro_API_35.avd" />
@@ -35,9 +35,23 @@
         </DropdownSelection>
         <DialogSelection />
       </SelectionState>
-      <SelectionState runConfigName="Loginpage">
+      <SelectionState runConfigName="Fruits_activity">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2024-11-19T15:10:23.105910300Z">
+      </SelectionState>
+      <SelectionState runConfigName="Button_activity">
+        <option name="selectionMode" value="DROPDOWN" />
+        <DropdownSelection timestamp="2024-12-12T08:09:26.994796900Z">
+          <Target type="DEFAULT_BOOT">
+            <handle>
+              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\E X T E N S A\.android\avd\Medium_Phone.avd" />
+            </handle>
+          </Target>
+        </DropdownSelection>
+        <DialogSelection />
+      </SelectionState>
+      <SelectionState runConfigName="task2">
+        <option name="selectionMode" value="DROPDOWN" />
+        <DropdownSelection timestamp="2024-12-14T09:42:43.760965200Z">
           <Target type="DEFAULT_BOOT">
             <handle>
               <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\E X T E N S A\.android\avd\Pixel_7_Pro_API_35.avd" />
